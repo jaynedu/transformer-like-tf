@@ -1,0 +1,2164 @@
+{
+  "name": "abc",
+  "classes": {
+    "intoxicated": 4,
+    "neutral": 1,
+    "tired": 3,
+    "nervous": 5,
+    "cheerful": 2,
+    "agressiv": 0
+  },
+  "path": "E:\\Corpus\\ABC",
+  "list": {
+    "FVP2__004-1_agressiv_0_16000_120960": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP2__004-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP2__004-2_agressiv_0_16000_270080": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP2__004-2.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP2__004-3_agressiv_0_16000_283520": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP2__004-3.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP2__010-1_agressiv_0_16000_167040": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP2__010-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP2__010-2_agressiv_0_16000_188160": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP2__010-2.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP2__010-3_agressiv_0_16000_238080": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP2__010-3.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP2__021-1_agressiv_0_16000_146560": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP2__021-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP2__021-3_agressiv_0_16000_203520": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP2__021-3.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP2__022-1_agressiv_0_16000_74240": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP2__022-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP2__022-2_agressiv_0_16000_167680": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP2__022-2.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP2__022-3_agressiv_0_16000_52480": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP2__022-3.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP4__004-1_agressiv_0_16000_205440": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP4__004-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP4__004-2_agressiv_0_16000_242560": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP4__004-2.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP4__010-1_agressiv_0_16000_194560": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP4__010-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP4__014-1_agressiv_0_16000_91520": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP4__014-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP4__014-2_agressiv_0_16000_210560": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP4__014-2.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP4__014-3_agressiv_0_16000_122240": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP4__014-3.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP4__021-1_agressiv_0_16000_65920": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP4__021-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP4__021-2_agressiv_0_16000_62720": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP4__021-2.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP4__021-3_agressiv_0_16000_125440": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP4__021-3.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP4__021-4_agressiv_0_16000_104960": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP4__021-4.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP6__004-1_agressiv_0_16000_74880": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP6__004-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP6__004-2_agressiv_0_16000_101760": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP6__004-2.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP6__004-3_agressiv_0_16000_168320": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP6__004-3.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP6__004-4_agressiv_0_16000_125440": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP6__004-4.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP6__004-5_agressiv_0_16000_119040": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP6__004-5.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP6__010-_agressiv_0_16000_195200": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP6__010-.2.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP6__010-_agressiv_0_16000_119040": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP6__010-.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP6__010-3_agressiv_0_16000_69120": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP6__010-3.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP6__010-4_agressiv_0_16000_140800": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP6__010-4.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP6__014-1_agressiv_0_16000_116480": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP6__014-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP6__014-2_agressiv_0_16000_92800": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP6__014-2.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP6__014-3_agressiv_0_16000_161280": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP6__014-3.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP6__014-4_agressiv_0_16000_112000": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP6__014-4.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP6__021-1_agressiv_0_16000_65280": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP6__021-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP6__021-2_agressiv_0_16000_161280": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP6__021-2.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP6__021-3_agressiv_0_16000_81920": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP6__021-3.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP6__022-1_agressiv_0_16000_40320": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP6__022-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP6__022-2_agressiv_0_16000_109440": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP6__022-2.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP8__004-1_agressiv_0_16000_55040": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP8__004-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP8__004-2_agressiv_0_16000_238080": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP8__004-2.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP8__004-3_agressiv_0_16000_113920": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP8__004-3.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP8__010-1_agressiv_0_16000_72960": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP8__010-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP8__022-1_agressiv_0_16000_106880": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\FVP8__022-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP1__004-1_agressiv_0_16000_196608": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP1__004-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP1__004-2_agressiv_0_16000_289920": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP1__004-2.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP1__004-3_agressiv_0_16000_316800": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP1__004-3.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP1__004-4_agressiv_0_16000_258560": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP1__004-4.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP1__004-5_agressiv_0_16000_235520": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP1__004-5.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP1__010-1_agressiv_0_16000_133760": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP1__010-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP1__010-2_agressiv_0_16000_336000": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP1__010-2.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP1__010-3_agressiv_0_16000_221440": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP1__010-3.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP1__010-5_agressiv_0_16000_278400": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP1__010-5.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP1__014-1_agressiv_0_16000_136320": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP1__014-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP1__014-2_agressiv_0_16000_306560": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP1__014-2.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP1__014-3_agressiv_0_16000_146560": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP1__014-3.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP1__021-1_agressiv_0_16000_63360": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP1__021-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP1__021-2_agressiv_0_16000_229376": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP1__021-2.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP1__022-2_agressiv_0_16000_163840": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP1__022-2.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP1__022-3_agressiv_0_16000_152960": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP1__022-3.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP3__004-1_agressiv_0_16000_250240": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP3__004-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP3__004-2_agressiv_0_16000_294912": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP3__004-2.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP3__010-1_agressiv_0_16000_119040": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP3__010-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP3__014-1_agressiv_0_16000_67840": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP3__014-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP3__014-2_agressiv_0_16000_127360": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP3__014-2.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP3__014-3_agressiv_0_16000_97280": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP3__014-3.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP3__014-4_agressiv_0_16000_217600": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP3__014-4.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP3__021-1_agressiv_0_16000_153600": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP3__021-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP3__021-2_agressiv_0_16000_281600": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP3__021-2.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP3__021-4_agressiv_0_16000_162560": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP3__021-4.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP3__021-5_agressiv_0_16000_100480": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP3__021-5.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP3__021-6_agressiv_0_16000_201600": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP3__021-6.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP3__022-1_agressiv_0_16000_228480": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP3__022-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP5__004-1_agressiv_0_16000_39040": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP5__004-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP5__004-2_agressiv_0_16000_109440": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP5__004-2.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP5__004-3_agressiv_0_16000_184320": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP5__004-3.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP5__010-1_agressiv_0_16000_218240": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP5__010-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP5__010-2_agressiv_0_16000_97280": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP5__010-2.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP5__014-1_agressiv_0_16000_42240": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP5__014-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP5__014-2_agressiv_0_16000_135040": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP5__014-2.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP5__014-3_agressiv_0_16000_212480": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP5__014-3.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP5__021-1_agressiv_0_16000_85120": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP5__021-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP7__004-1_agressiv_0_16000_94080": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP7__004-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP7__004-2_agressiv_0_16000_188800": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP7__004-2.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP7__004-3_agressiv_0_16000_121600": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP7__004-3.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP7__004-4_agressiv_0_16000_236160": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP7__004-4.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP7__010-1_agressiv_0_16000_74240": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP7__010-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP7__010-2_agressiv_0_16000_193920": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP7__010-2.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP7__010-3_agressiv_0_16000_169600": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP7__010-3.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP7__021-1_agressiv_0_16000_156160": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP7__021-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP7__021-2_agressiv_0_16000_74240": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP7__021-2.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP7__021-3_agressiv_0_16000_81280": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP7__021-3.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP7__021-4_agressiv_0_16000_195840": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP7__021-4.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP7__022-1_agressiv_0_16000_61440": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP7__022-1.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "MVP7__022-2_agressiv_0_16000_144000": {
+      "path": "E:\\Corpus\\ABC\\agressiv\\MVP7__022-2.wav",
+      "emotion": "agressiv",
+      "label": 0
+    },
+    "FVP2__0016-1_cheerful_2_16000_120960": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP2__0016-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP2__0016-2_cheerful_2_16000_195200": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP2__0016-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP2__003-1_cheerful_2_16000_49280": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP2__003-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP2__003-2_cheerful_2_16000_125440": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP2__003-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP2__003-3_cheerful_2_16000_90240": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP2__003-3.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP2__003-4_cheerful_2_16000_218240": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP2__003-4.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP2__009-1_cheerful_2_16000_48000": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP2__009-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP2__009-2_cheerful_2_16000_125440": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP2__009-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP2__009-3_cheerful_2_16000_37120": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP2__009-3.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP2__017-1_cheerful_2_16000_167680": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP2__017-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP2__017-2_cheerful_2_16000_113920": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP2__017-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP2__017-3_cheerful_2_16000_229120": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP2__017-3.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP2__018-1_cheerful_2_16000_120320": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP2__018-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP2__018-2_cheerful_2_16000_116480": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP2__018-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP4__003-1_cheerful_2_16000_113280": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP4__003-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP4__003-2_cheerful_2_16000_200320": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP4__003-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP4__003-3_cheerful_2_16000_277760": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP4__003-3.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP4__003-4_cheerful_2_16000_204800": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP4__003-4.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP4__004-3_cheerful_2_16000_140800": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP4__004-3.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP4__009-1_cheerful_2_16000_151680": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP4__009-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP4__011-1_cheerful_2_16000_82560": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP4__011-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP4__011-2_cheerful_2_16000_131072": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP4__011-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP4__011-3_cheerful_2_16000_302080": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP4__011-3.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP4__017-1_cheerful_2_16000_140160": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP4__017-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP4__017-2_cheerful_2_16000_109440": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP4__017-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP4__017-3_cheerful_2_16000_163200": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP4__017-3.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP4__018-1_cheerful_2_16000_73600": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP4__018-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP4__018-2_cheerful_2_16000_202240": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP4__018-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP4__018-3_cheerful_2_16000_158080": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP4__018-3.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP4__018-4_cheerful_2_16000_242560": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP4__018-4.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP6__003-1_cheerful_2_16000_39680": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP6__003-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP6__003-2_cheerful_2_16000_149120": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP6__003-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP6__003-3_cheerful_2_16000_110720": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP6__003-3.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP6__009-1_cheerful_2_16000_155520": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP6__009-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP6__009-2_cheerful_2_16000_264960": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP6__009-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP6__011-1_cheerful_2_16000_53760": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP6__011-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP6__011-2_cheerful_2_16000_135680": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP6__011-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP6__017-1_cheerful_2_16000_132480": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP6__017-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP6__017-2_cheerful_2_16000_147200": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP6__017-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP6__018-1_cheerful_2_16000_53120": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP6__018-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP6__018-2_cheerful_2_16000_183680": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP6__018-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP6__018-3_cheerful_2_16000_172160": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP6__018-3.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP6__018-4_cheerful_2_16000_98304": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP6__018-4.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP8__003-1_cheerful_2_16000_91520": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP8__003-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP8__003-2_cheerful_2_16000_180480": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP8__003-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP8__003-3_cheerful_2_16000_126720": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP8__003-3.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP8__003-4_cheerful_2_16000_218240": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP8__003-4.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP8__009-1_cheerful_2_16000_72960": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP8__009-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP8__009-2_cheerful_2_16000_114560": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP8__009-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP8__009-3_cheerful_2_16000_190720": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP8__009-3.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP8__011-1_cheerful_2_16000_158720": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP8__011-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP8__011-2_cheerful_2_16000_241280": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP8__011-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP8__017-1_cheerful_2_16000_94080": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP8__017-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP8__017-2_cheerful_2_16000_200960": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP8__017-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP8__017-3_cheerful_2_16000_133760": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP8__017-3.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP8__018-1_cheerful_2_16000_129280": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP8__018-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP8__018-2_cheerful_2_16000_212480": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP8__018-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP8__018-3_cheerful_2_16000_145920": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\FVP8__018-3.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP1__003-1_cheerful_2_16000_101760": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP1__003-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP1__003-2_cheerful_2_16000_71040": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP1__003-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP1__003-3_cheerful_2_16000_221440": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP1__003-3.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP1__003-4_cheerful_2_16000_221440": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP1__003-4.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP1__009-1_cheerful_2_16000_103680": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP1__009-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP1__009-2_cheerful_2_16000_176000": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP1__009-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP1__011-1_cheerful_2_16000_47360": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP1__011-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP1__017-1_cheerful_2_16000_101120": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP1__017-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP1__017-2_cheerful_2_16000_156800": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP1__017-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP1__018-1_cheerful_2_16000_90240": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP1__018-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP1__018-2_cheerful_2_16000_166400": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP1__018-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP1__022-1_cheerful_2_16000_92160": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP1__022-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP3__003-1_cheerful_2_16000_198400": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP3__003-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP3__003-2_cheerful_2_16000_76800": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP3__003-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP3__003-3_cheerful_2_16000_127360": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP3__003-3.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP3__003-4_cheerful_2_16000_183680": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP3__003-4.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP3__009-1_cheerful_2_16000_28160": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP3__009-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP3__009-2_cheerful_2_16000_116480": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP3__009-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP3__011-1_cheerful_2_16000_88320": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP3__011-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP3__011-2_cheerful_2_16000_48000": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP3__011-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP3__017-1_cheerful_2_16000_172160": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP3__017-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP3__017-2_cheerful_2_16000_85120": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP3__017-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP3__017-3_cheerful_2_16000_167680": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP3__017-3.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP3__018-1_cheerful_2_16000_88320": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP3__018-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP3__018-2_cheerful_2_16000_220800": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP3__018-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP3__018-3_cheerful_2_16000_239360": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP3__018-3.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP5__003-1_cheerful_2_16000_54400": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP5__003-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP5__003-2_cheerful_2_16000_129920": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP5__003-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP5__011-1_cheerful_2_16000_113280": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP5__011-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP5__017-1_cheerful_2_16000_80640": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP5__017-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP5__017-2_cheerful_2_16000_244480": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP5__017-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP5__017-3_cheerful_2_16000_211200": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP5__017-3.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP5__018-1_cheerful_2_16000_130560": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP5__018-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP5__018-2_cheerful_2_16000_231040": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP5__018-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP7__003-1_cheerful_2_16000_149760": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP7__003-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP7__003-2_cheerful_2_16000_269440": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP7__003-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP7__009-1_cheerful_2_16000_126080": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP7__009-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP7__009-2_cheerful_2_16000_190720": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP7__009-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP7__011-1_cheerful_2_16000_88320": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP7__011-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP7__011-2_cheerful_2_16000_183680": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP7__011-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP7__011-3_cheerful_2_16000_58240": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP7__011-3.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP7__017-1_cheerful_2_16000_77440": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP7__017-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP7__017-2_cheerful_2_16000_226560": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP7__017-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP7__017-3_cheerful_2_16000_137600": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP7__017-3.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP7__018-1_cheerful_2_16000_44160": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP7__018-1.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP7__018-2_cheerful_2_16000_210560": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP7__018-2.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "MVP7__018-3_cheerful_2_16000_144000": {
+      "path": "E:\\Corpus\\ABC\\cheerful\\MVP7__018-3.wav",
+      "emotion": "cheerful",
+      "label": 2
+    },
+    "FVP2__008-1_intoxicated_4_16000_185600": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\FVP2__008-1.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "FVP2__008-2_intoxicated_4_16000_160000": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\FVP2__008-2.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "FVP2__008-3_intoxicated_4_16000_140160": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\FVP2__008-3.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "FVP4__008-1_intoxicated_4_16000_89600": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\FVP4__008-1.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "FVP6__008-1_intoxicated_4_16000_163840": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\FVP6__008-1.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "FVP6__008-2_intoxicated_4_16000_199040": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\FVP6__008-2.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "FVP6__008-3_intoxicated_4_16000_218240": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\FVP6__008-3.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "FVP6__019-1_intoxicated_4_16000_72320": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\FVP6__019-1.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "FVP6__019-2_intoxicated_4_16000_180480": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\FVP6__019-2.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "FVP8__008-1_intoxicated_4_16000_124160": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\FVP8__008-1.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "FVP8__008-2_intoxicated_4_16000_232960": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\FVP8__008-2.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "FVP8__008-3_intoxicated_4_16000_229120": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\FVP8__008-3.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "FVP8__019-1_intoxicated_4_16000_136960": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\FVP8__019-1.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "FVP8__019-2_intoxicated_4_16000_306560": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\FVP8__019-2.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "FVP8__019-3_intoxicated_4_16000_221440": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\FVP8__019-3.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "MVP1__008-1_intoxicated_4_16000_173440": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\MVP1__008-1.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "MVP1__008-2_intoxicated_4_16000_274560": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\MVP1__008-2.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "MVP1__008-3_intoxicated_4_16000_179200": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\MVP1__008-3.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "MVP1__019-1_intoxicated_4_16000_69760": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\MVP1__019-1.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "MVP1__019-2_intoxicated_4_16000_196608": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\MVP1__019-2.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "MVP3__008-1_intoxicated_4_16000_348800": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\MVP3__008-1.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "MVP3__019-1_intoxicated_4_16000_110080": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\MVP3__019-1.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "MVP3__019-2_intoxicated_4_16000_275200": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\MVP3__019-2.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "MVP3__019-3_intoxicated_4_16000_131072": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\MVP3__019-3.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "MVP3__019-4_intoxicated_4_16000_179200": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\MVP3__019-4.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "MVP5__008-1_intoxicated_4_16000_119680": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\MVP5__008-1.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "MVP5__008-2_intoxicated_4_16000_334080": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\MVP5__008-2.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "MVP5__019-1_intoxicated_4_16000_152960": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\MVP5__019-1.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "MVP5__019-2_intoxicated_4_16000_154240": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\MVP5__019-2.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "MVP7__008-1_intoxicated_4_16000_195200": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\MVP7__008-1.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "MVP7__008-2_intoxicated_4_16000_282240": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\MVP7__008-2.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "MVP7__019-1_intoxicated_4_16000_100480": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\MVP7__019-1.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "MVP7__019-2_intoxicated_4_16000_153600": {
+      "path": "E:\\Corpus\\ABC\\intoxicated\\MVP7__019-2.wav",
+      "emotion": "intoxicated",
+      "label": 4
+    },
+    "FVP2__001-1_nervous_5_16000_294912": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP2__001-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP2__001-2_nervous_5_16000_340480": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP2__001-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP2__007-1_nervous_5_16000_311040": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP2__007-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP2__007-2_nervous_5_16000_350080": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP2__007-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP2__024-1_nervous_5_16000_243200": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP2__024-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP2__024-2_nervous_5_16000_315520": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP2__024-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP2__024-3_nervous_5_16000_282880": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP2__024-3.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP4__001-1_nervous_5_16000_118400": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP4__001-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP4__001-2_nervous_5_16000_275200": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP4__001-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP4__001-3_nervous_5_16000_269440": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP4__001-3.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP4__001-4_nervous_5_16000_167680": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP4__001-4.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP4__007-1_nervous_5_16000_177920": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP4__007-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP4__015-1_nervous_5_16000_76800": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP4__015-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP4__015-2_nervous_5_16000_259840": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP4__015-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP4__015-3_nervous_5_16000_231680": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP4__015-3.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP4__0151-1_nervous_5_16000_104320": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP4__0151-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP4__0151-2_nervous_5_16000_248960": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP4__0151-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP4__0151-3_nervous_5_16000_195840": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP4__0151-3.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP4__024-1_nervous_5_16000_77440": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP4__024-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP4__024-2_nervous_5_16000_262144": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP4__024-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP4__024-3_nervous_5_16000_155520": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP4__024-3.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP4__024-4_nervous_5_16000_121600": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP4__024-4.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP6__001-1_nervous_5_16000_77440": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP6__001-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP6__001-2_nervous_5_16000_256640": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP6__001-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP6__001-3_nervous_5_16000_275200": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP6__001-3.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP6__007-1_nervous_5_16000_160000": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP6__007-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP6__007-2_nervous_5_16000_148480": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP6__007-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP6__007-3_nervous_5_16000_224000": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP6__007-3.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP6__013-1_nervous_5_16000_97920": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP6__013-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP6__013-2_nervous_5_16000_248960": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP6__013-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP6__013-3_nervous_5_16000_208000": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP6__013-3.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP6__015-1_nervous_5_16000_110720": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP6__015-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP6__015-2_nervous_5_16000_304000": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP6__015-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP6__015-3_nervous_5_16000_301440": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP6__015-3.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP6__024-1_nervous_5_16000_59520": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP6__024-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP6__024-2_nervous_5_16000_177280": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP6__024-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP8__001-1_nervous_5_16000_119680": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP8__001-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP8__001-2_nervous_5_16000_320640": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP8__001-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP8__007-1_nervous_5_16000_131072": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP8__007-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP8__007-2_nervous_5_16000_240640": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP8__007-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP8__013-1_nervous_5_16000_129280": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP8__013-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP8__013-2_nervous_5_16000_272000": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP8__013-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP8__013-3_nervous_5_16000_208640": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP8__013-3.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP8__024-1_nervous_5_16000_124800": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP8__024-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP8__024-2_nervous_5_16000_301440": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP8__024-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP8__024-3_nervous_5_16000_196608": {
+      "path": "E:\\Corpus\\ABC\\nervous\\FVP8__024-3.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP1__001-1_nervous_5_16000_146560": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP1__001-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP1__001-2_nervous_5_16000_274560": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP1__001-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP1__001-3_nervous_5_16000_250240": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP1__001-3.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP1__001-4_nervous_5_16000_455680": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP1__001-4.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP1__001-5_nervous_5_16000_323200": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP1__001-5.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP1__007-1_nervous_5_16000_342400": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP1__007-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP1__007-2_nervous_5_16000_108800": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP1__007-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP1__007-3_nervous_5_16000_199680": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP1__007-3.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP1__007-4_nervous_5_16000_375680": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP1__007-4.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP1__013-1_nervous_5_16000_186880": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP1__013-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP1__013-2_nervous_5_16000_253440": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP1__013-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP1__015-1_nervous_5_16000_282240": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP1__015-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP1__015-2_nervous_5_16000_423040": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP1__015-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP1__024-1_nervous_5_16000_181760": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP1__024-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP1__024-2_nervous_5_16000_184320": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP1__024-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP1__024-3_nervous_5_16000_269440": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP1__024-3.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP3__001-1_nervous_5_16000_136960": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP3__001-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP3__001-2_nervous_5_16000_142720": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP3__001-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP3__007-1_nervous_5_16000_141440": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP3__007-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP3__007-2_nervous_5_16000_298240": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP3__007-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP3__007-3_nervous_5_16000_112640": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP3__007-3.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP3__013-1_nervous_5_16000_239360": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP3__013-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP3__013-2_nervous_5_16000_152320": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP3__013-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP3__015-1_nervous_5_16000_38400": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP3__015-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP3__015-2_nervous_5_16000_144640": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP3__015-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP3__024-1_nervous_5_16000_149120": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP3__024-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP3__024-2_nervous_5_16000_277120": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP3__024-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP5__001-1_nervous_5_16000_102400": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP5__001-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP5__001-2_nervous_5_16000_267520": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP5__001-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP5__001-3_nervous_5_16000_198400": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP5__001-3.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP5__007-1_nervous_5_16000_186880": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP5__007-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP5__013-1_nervous_5_16000_85760": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP5__013-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP5__013-2_nervous_5_16000_204160": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP5__013-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP5__013-3_nervous_5_16000_120960": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP5__013-3.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP5__015-1_nervous_5_16000_146560": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP5__015-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP5__015-2_nervous_5_16000_266240": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP5__015-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP5__024-1_nervous_5_16000_259840": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP5__024-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP7__001-1_nervous_5_16000_116480": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP7__001-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP7__001-2_nervous_5_16000_222720": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP7__001-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP7__007-1_nervous_5_16000_152320": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP7__007-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP7__007-2_nervous_5_16000_312320": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP7__007-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP7__013-1_nervous_5_16000_145920": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP7__013-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP7__013-2_nervous_5_16000_163200": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP7__013-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP7__015-1_nervous_5_16000_107520": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP7__015-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP7__015-2_nervous_5_16000_176000": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP7__015-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP7__024-1_nervous_5_16000_69760": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP7__024-1.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "MVP7__024-2_nervous_5_16000_211200": {
+      "path": "E:\\Corpus\\ABC\\nervous\\MVP7__024-2.wav",
+      "emotion": "nervous",
+      "label": 5
+    },
+    "FVP2__002-1_neutral_1_16000_135680": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP2__002-1.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP2__002-2_neutral_1_16000_139520": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP2__002-2.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP2__002-3_neutral_1_16000_138240": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP2__002-3.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP2__006-1_neutral_1_16000_199680": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP2__006-1.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP2__006-2_neutral_1_16000_122240": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP2__006-2.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP2__006-3_neutral_1_16000_120320": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP2__006-3.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP4__002-1_neutral_1_16000_128640": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP4__002-1.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP4__002-2_neutral_1_16000_104320": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP4__002-2.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP4__002-3_neutral_1_16000_195200": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP4__002-3.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP4__002-4_neutral_1_16000_177280": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP4__002-4.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP4__016-1_neutral_1_16000_205440": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP4__016-1.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP4__016-2_neutral_1_16000_135040": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP4__016-2.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP4__016-3_neutral_1_16000_229376": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP4__016-3.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP4__020-1_neutral_1_16000_124800": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP4__020-1.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP4__020-2_neutral_1_16000_218880": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP4__020-2.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP6__002-1_neutral_1_16000_158720": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP6__002-1.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP6__002-2_neutral_1_16000_104960": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP6__002-2.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP6__002-3_neutral_1_16000_171520": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP6__002-3.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP6__002-4_neutral_1_16000_202880": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP6__002-4.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP6__006-1_neutral_1_16000_156160": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP6__006-1.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP6__006-2_neutral_1_16000_332160": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP6__006-2.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP6__006-3_neutral_1_16000_188160": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP6__006-3.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP6__016-1_neutral_1_16000_78720": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP6__016-1.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP6__016-2_neutral_1_16000_220800": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP6__016-2.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP6__016-3_neutral_1_16000_119040": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP6__016-3.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP8__002-1_neutral_1_16000_122880": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP8__002-1.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP8__002-2_neutral_1_16000_218880": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP8__002-2.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP8__002-3_neutral_1_16000_124800": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP8__002-3.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP8__006-1_neutral_1_16000_123520": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP8__006-1.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP8__006-2_neutral_1_16000_234880": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP8__006-2.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP8__006-3_neutral_1_16000_140800": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP8__006-3.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP8__016-1_neutral_1_16000_117120": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP8__016-1.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP8__016-2_neutral_1_16000_263680": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP8__016-2.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP8__016-3_neutral_1_16000_208000": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP8__016-3.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP8__020-1_neutral_1_16000_160000": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP8__020-1.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP8__020-2_neutral_1_16000_62720": {
+      "path": "E:\\Corpus\\ABC\\neutral\\FVP8__020-2.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP1__002-1_neutral_1_16000_38400": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP1__002-1.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP1__002-2_neutral_1_16000_208640": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP1__002-2.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP1__002-3_neutral_1_16000_238720": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP1__002-3.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP1__002-4_neutral_1_16000_302080": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP1__002-4.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP1__006-1_neutral_1_16000_167040": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP1__006-1.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP1__006-2_neutral_1_16000_90240": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP1__006-2.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP1__006-3_neutral_1_16000_207360": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP1__006-3.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP1__006-4_neutral_1_16000_145280": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP1__006-4.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP1__016-1_neutral_1_16000_90240": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP1__016-1.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP1__016-2_neutral_1_16000_222720": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP1__016-2.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP1__016-3_neutral_1_16000_210560": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP1__016-3.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP1__016-4_neutral_1_16000_231680": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP1__016-4.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP1__020-1_neutral_1_16000_108800": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP1__020-1.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP1__020-2_neutral_1_16000_234880": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP1__020-2.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP1__020-3_neutral_1_16000_252160": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP1__020-3.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP1__020-4_neutral_1_16000_133120": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP1__020-4.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP3__002-1_neutral_1_16000_94080": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP3__002-1.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP3__002-2_neutral_1_16000_245760": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP3__002-2.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP3__002-3_neutral_1_16000_204800": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP3__002-3.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP3__006-1_neutral_1_16000_153600": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP3__006-1.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP3__006-2_neutral_1_16000_227840": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP3__006-2.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP3__016-1_neutral_1_16000_94080": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP3__016-1.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP3__016-2_neutral_1_16000_317440": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP3__016-2.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP3__016-3_neutral_1_16000_286080": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP3__016-3.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP3__016-4_neutral_1_16000_247680": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP3__016-4.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP3__020-1_neutral_1_16000_130560": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP3__020-1.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP3__020-2_neutral_1_16000_236800": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP3__020-2.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP5__002-1_neutral_1_16000_133120": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP5__002-1.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP5__002-2_neutral_1_16000_234240": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP5__002-2.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP5__006-1_neutral_1_16000_89600": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP5__006-1.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP5__006-2_neutral_1_16000_240640": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP5__006-2.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP5__006-3_neutral_1_16000_174720": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP5__006-3.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP5__020-1_neutral_1_16000_134400": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP5__020-1.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP5__020-2_neutral_1_16000_274560": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP5__020-2.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP5__020-3_neutral_1_16000_245120": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP5__020-3.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP7__002-1_neutral_1_16000_96000": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP7__002-1.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP7__002-2_neutral_1_16000_152320": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP7__002-2.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP7__002-3_neutral_1_16000_224640": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP7__002-3.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP7__006-1_neutral_1_16000_73600": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP7__006-1.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP7__006-2_neutral_1_16000_182400": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP7__006-2.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP7__006-3_neutral_1_16000_117760": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP7__006-3.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP7__020-1_neutral_1_16000_140160": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP7__020-1.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "MVP7__020-2_neutral_1_16000_225280": {
+      "path": "E:\\Corpus\\ABC\\neutral\\MVP7__020-2.wav",
+      "emotion": "neutral",
+      "label": 1
+    },
+    "FVP2__012-1_tired_3_16000_71040": {
+      "path": "E:\\Corpus\\ABC\\tired\\FVP2__012-1.wav",
+      "emotion": "tired",
+      "label": 3
+    },
+    "FVP2__023-1_tired_3_16000_99840": {
+      "path": "E:\\Corpus\\ABC\\tired\\FVP2__023-1.wav",
+      "emotion": "tired",
+      "label": 3
+    },
+    "FVP2__023-2_tired_3_16000_210560": {
+      "path": "E:\\Corpus\\ABC\\tired\\FVP2__023-2.wav",
+      "emotion": "tired",
+      "label": 3
+    },
+    "FVP2__023-3_tired_3_16000_138240": {
+      "path": "E:\\Corpus\\ABC\\tired\\FVP2__023-3.wav",
+      "emotion": "tired",
+      "label": 3
+    },
+    "FVP4__005-1_tired_3_16000_167040": {
+      "path": "E:\\Corpus\\ABC\\tired\\FVP4__005-1.wav",
+      "emotion": "tired",
+      "label": 3
+    },
+    "FVP4__005-2_tired_3_16000_128000": {
+      "path": "E:\\Corpus\\ABC\\tired\\FVP4__005-2.wav",
+      "emotion": "tired",
+      "label": 3
+    },
+    "FVP4__012-1_tired_3_16000_78720": {
+      "path": "E:\\Corpus\\ABC\\tired\\FVP4__012-1.wav",
+      "emotion": "tired",
+      "label": 3
+    },
+    "FVP4__012-2_tired_3_16000_201600": {
+      "path": "E:\\Corpus\\ABC\\tired\\FVP4__012-2.wav",
+      "emotion": "tired",
+      "label": 3
+    },
+    "FVP4__012-3_tired_3_16000_98304": {
+      "path": "E:\\Corpus\\ABC\\tired\\FVP4__012-3.wav",
+      "emotion": "tired",
+      "label": 3
+    },
+    "FVP4__023-1_tired_3_16000_32640": {
+      "path": "E:\\Corpus\\ABC\\tired\\FVP4__023-1.wav",
+      "emotion": "tired",
+      "label": 3
+    },
+    "FVP4__023-2_tired_3_16000_106880": {
+      "path": "E:\\Corpus\\ABC\\tired\\FVP4__023-2.wav",
+      "emotion": "tired",
+      "label": 3
+    },
+    "FVP4__023-3_tired_3_16000_224252": {
+      "path": "E:\\Corpus\\ABC\\tired\\FVP4__023-3.wav",
+      "emotion": "tired",
+      "label": 3
+    },
+    "MVP1__005-1_tired_3_16000_92800": {
+      "path": "E:\\Corpus\\ABC\\tired\\MVP1__005-1.wav",
+      "emotion": "tired",
+      "label": 3
+    },
+    "MVP1__005-2_tired_3_16000_143360": {
+      "path": "E:\\Corpus\\ABC\\tired\\MVP1__005-2.wav",
+      "emotion": "tired",
+      "label": 3
+    },
+    "MVP1__005-3_tired_3_16000_257280": {
+      "path": "E:\\Corpus\\ABC\\tired\\MVP1__005-3.wav",
+      "emotion": "tired",
+      "label": 3
+    },
+    "MVP1__012-1_tired_3_16000_117760": {
+      "path": "E:\\Corpus\\ABC\\tired\\MVP1__012-1.wav",
+      "emotion": "tired",
+      "label": 3
+    },
+    "MVP1__023-1_tired_3_16000_199040": {
+      "path": "E:\\Corpus\\ABC\\tired\\MVP1__023-1.wav",
+      "emotion": "tired",
+      "label": 3
+    },
+    "MVP1__023-2_tired_3_16000_126080": {
+      "path": "E:\\Corpus\\ABC\\tired\\MVP1__023-2.wav",
+      "emotion": "tired",
+      "label": 3
+    },
+    "MVP3__005-1_tired_3_16000_72960": {
+      "path": "E:\\Corpus\\ABC\\tired\\MVP3__005-1.wav",
+      "emotion": "tired",
+      "label": 3
+    },
+    "MVP3__005-2_tired_3_16000_238720": {
+      "path": "E:\\Corpus\\ABC\\tired\\MVP3__005-2.wav",
+      "emotion": "tired",
+      "label": 3
+    },
+    "MVP3__005-3_tired_3_16000_206080": {
+      "path": "E:\\Corpus\\ABC\\tired\\MVP3__005-3.wav",
+      "emotion": "tired",
+      "label": 3
+    },
+    "MVP3__012-1_tired_3_16000_98304": {
+      "path": "E:\\Corpus\\ABC\\tired\\MVP3__012-1.wav",
+      "emotion": "tired",
+      "label": 3
+    },
+    "MVP3__023-1_tired_3_16000_33920": {
+      "path": "E:\\Corpus\\ABC\\tired\\MVP3__023-1.wav",
+      "emotion": "tired",
+      "label": 3
+    },
+    "MVP3__023-2_tired_3_16000_122880": {
+      "path": "E:\\Corpus\\ABC\\tired\\MVP3__023-2.wav",
+      "emotion": "tired",
+      "label": 3
+    },
+    "MVP3__023-3_tired_3_16000_171520": {
+      "path": "E:\\Corpus\\ABC\\tired\\MVP3__023-3.wav",
+      "emotion": "tired",
+      "label": 3
+    }
+  }
+}
